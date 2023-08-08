@@ -7,3 +7,9 @@ A project from iNeuron Internship portal to build a Machine Learning model to pr
 <a href="https://github.com/arv-anshul/inueron-credit-card-default-prediction/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=arv-anshul/inueron-credit-card-default-prediction" />
 </a>
+
+
+## TODO
+
+1. [ ] Apply SMOTE.
+2. [ ] 
